@@ -23,6 +23,14 @@
         "id": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1983.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/canvas/introduction.json",
+            "label": "Introduction"
+          }
+        ],
         "items": [
           {
             "id": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/paintings",

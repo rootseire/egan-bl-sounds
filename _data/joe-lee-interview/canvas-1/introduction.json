@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/canvas/introduction.json",
+  "type": "AnnotationPage",
+  "label": "Introduction",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/canvas/introduction-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.550488,4.457961"
+        }
+      }
+    }
+  ]
+}
