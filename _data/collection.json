@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "British Library Sounds Audio" ] },
+    "summary": { "en": [ "Sample of audio from the Reg Hall Collection at the British Library" ] },
+    "items": [
+    ]
+}
