@@ -13,9 +13,9 @@
     ],
     "provider": [
       {
-        "id": "",
+        "id": "http://asr-download.bl.uk/",
         "type": "Agent",
-        "label": { "en": [ "" ] }
+        "label": { "en": [ "Reg Hall English, Irish \u0026 Scottish Folk Music \u0026 Customs Collection" ] }
       }
     ],
     "items": [
@@ -33,7 +33,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://sounds.bl.uk/GT/96A5003FCBD4BD7791B431955AA0BB3ACA83A037F1ADEE7F327DCA5844403138ADCB6F69DCDEE7268A1BD1C2592BE830",
+                  "id": "http://asr-download.bl.uk/SoundsServer2016/Reg-Hall-Archive/025A-C0903X0178XX-0100A0.mp3?dk=50F04346A3A02E53DAA57A374FAC7498313FA606C8A42F06099D3B42E9A5763374AF6CB2086E84F108998760AFA63A0A84ECDB39B2B9C6E50CF77780749D00227FD339873FF61F2BD91C85D0A415944A",
+                  "type": "Sound",
+                  "format": "audio/mp3",
                     "duration": 1983.0
                 },
                 "target": "https://rootseire.github.io/egan-bl-sounds/joe-lee-interview/canvas-1/canvas"
